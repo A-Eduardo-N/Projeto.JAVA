@@ -1,0 +1,5 @@
+Aluno: João Pedro Serpa de Souza Batista
+Matrícula: 2024111880042
+
+Adicionado uma nova opção ao menu para "Visualizar Relatório de Mudanças", este relatório contém o registro de todas as mudanças realizadas no atacado, como: adição de produtos/clientes/pedidos e atualização/remoção de produtos.
+Adicionado duas funções: validarEmail() e validarTelefone() para validar os dados que são inseridos pelo usuário antes de armazenar.
